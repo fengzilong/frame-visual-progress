@@ -1,0 +1,21 @@
+{
+  "name": "frame-perceptual-progress",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengzilong/frame-perceptual-progress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengzilong/frame-perceptual-progress/issues"
+  },
+  "homepage": "https://github.com/fengzilong/frame-perceptual-progress#readme",
+  "dependencies": {
+    "jimp": "^0.12.1"
+  }
+}
