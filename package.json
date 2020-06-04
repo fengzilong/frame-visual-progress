@@ -1,20 +1,20 @@
 {
-  "name": "frame-perceptual-progress",
+  "name": "frame-visual-progress",
   "version": "0.1.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengzilong/frame-perceptual-progress.git"
+    "url": "git+https://github.com/fengzilong/frame-visual-progress.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fengzilong/frame-perceptual-progress/issues"
+    "url": "https://github.com/fengzilong/frame-visual-progress/issues"
   },
-  "homepage": "https://github.com/fengzilong/frame-perceptual-progress#readme",
+  "homepage": "https://github.com/fengzilong/frame-visual-progress#readme",
   "dependencies": {
     "jimp": "^0.12.1"
   }

@@ -1,20 +1,24 @@
-# frame-perceptual-progress
+# frame-visual-progress
 
-Get more accurate perceptual progress for certain frame
+Get visual progress for certain frame
 
 # Installation
 
 ```bash
-yarn add frame-perceptual-progress
+yarn add frame-visual-progress
 ```
 
 # Usage
 
 ```js
-const getFramePerceptualProgress = require( 'frame-perceptual-progress' )
+const fvp = require( 'frame-visual-progress' )
 
-getFramePerceptualProgress( targetBuffer, {
+fvp( targetBuffer, {
   source: sourceBuffer,
   destination: destinationBuffer,
 } ) // return 0-1 value represent perceptual-progress
 ```
+
+# License
+
+MIT
